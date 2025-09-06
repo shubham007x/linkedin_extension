@@ -12,7 +12,7 @@
 
 ## Usage
 
-1. Go to a LinkedIn profile page like https://www.linkedin.com/in/user-profile
+1. Go to a LinkedIn profile page like https://www.linkedin.com/in/username
 2. Click the extension icon.
 3. The popup will show Full Name, Email (from Hunter), Organisation, and Designation.
 4. If no email found by Hunter.io, "No data found" message will be shown.
